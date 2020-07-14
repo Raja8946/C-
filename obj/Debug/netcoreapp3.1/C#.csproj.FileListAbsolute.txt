@@ -1,0 +1,4 @@
+/home/hackingstuffs/Desktop/C#/obj/Debug/netcoreapp3.1/C#.csprojAssemblyReference.cache
+/home/hackingstuffs/Desktop/C#/obj/Debug/netcoreapp3.1/C#.AssemblyInfoInputs.cache
+/home/hackingstuffs/Desktop/C#/obj/Debug/netcoreapp3.1/C#.AssemblyInfo.cs
+/home/hackingstuffs/Desktop/C#/obj/Debug/netcoreapp3.1/C#.csproj.CoreCompileInputs.cache
