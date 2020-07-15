@@ -1,0 +1,13 @@
+/home/hackingstuffs/Desktop/C#/Hashtab/obj/Debug/netcoreapp3.1/Hashtab.csprojAssemblyReference.cache
+/home/hackingstuffs/Desktop/C#/Hashtab/obj/Debug/netcoreapp3.1/Hashtab.AssemblyInfoInputs.cache
+/home/hackingstuffs/Desktop/C#/Hashtab/obj/Debug/netcoreapp3.1/Hashtab.AssemblyInfo.cs
+/home/hackingstuffs/Desktop/C#/Hashtab/obj/Debug/netcoreapp3.1/Hashtab.csproj.CoreCompileInputs.cache
+/home/hackingstuffs/Desktop/C#/Hashtab/bin/Debug/netcoreapp3.1/Hashtab
+/home/hackingstuffs/Desktop/C#/Hashtab/bin/Debug/netcoreapp3.1/Hashtab.deps.json
+/home/hackingstuffs/Desktop/C#/Hashtab/bin/Debug/netcoreapp3.1/Hashtab.runtimeconfig.json
+/home/hackingstuffs/Desktop/C#/Hashtab/bin/Debug/netcoreapp3.1/Hashtab.runtimeconfig.dev.json
+/home/hackingstuffs/Desktop/C#/Hashtab/bin/Debug/netcoreapp3.1/Hashtab.dll
+/home/hackingstuffs/Desktop/C#/Hashtab/bin/Debug/netcoreapp3.1/Hashtab.pdb
+/home/hackingstuffs/Desktop/C#/Hashtab/obj/Debug/netcoreapp3.1/Hashtab.dll
+/home/hackingstuffs/Desktop/C#/Hashtab/obj/Debug/netcoreapp3.1/Hashtab.pdb
+/home/hackingstuffs/Desktop/C#/Hashtab/obj/Debug/netcoreapp3.1/Hashtab.genruntimeconfig.cache
