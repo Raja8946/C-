@@ -1,0 +1,16 @@
+/home/hackingstuffs/Desktop/cApp1/obj/Debug/netcoreapp3.1/cApp1.csprojAssemblyReference.cache
+/home/hackingstuffs/Desktop/cApp1/obj/Debug/netcoreapp3.1/cApp1.AssemblyInfoInputs.cache
+/home/hackingstuffs/Desktop/cApp1/obj/Debug/netcoreapp3.1/cApp1.AssemblyInfo.cs
+/home/hackingstuffs/Desktop/cApp1/obj/Debug/netcoreapp3.1/cApp1.csproj.CoreCompileInputs.cache
+/home/hackingstuffs/Desktop/cApp1/bin/Debug/netcoreapp3.1/cApp1
+/home/hackingstuffs/Desktop/cApp1/bin/Debug/netcoreapp3.1/cApp1.deps.json
+/home/hackingstuffs/Desktop/cApp1/bin/Debug/netcoreapp3.1/cApp1.runtimeconfig.json
+/home/hackingstuffs/Desktop/cApp1/bin/Debug/netcoreapp3.1/cApp1.runtimeconfig.dev.json
+/home/hackingstuffs/Desktop/cApp1/bin/Debug/netcoreapp3.1/cApp1.dll
+/home/hackingstuffs/Desktop/cApp1/bin/Debug/netcoreapp3.1/cApp1.pdb
+/home/hackingstuffs/Desktop/cApp1/bin/Debug/netcoreapp3.1/cl1.dll
+/home/hackingstuffs/Desktop/cApp1/bin/Debug/netcoreapp3.1/cl1.pdb
+/home/hackingstuffs/Desktop/cApp1/obj/Debug/netcoreapp3.1/cApp1.csproj.CopyComplete
+/home/hackingstuffs/Desktop/cApp1/obj/Debug/netcoreapp3.1/cApp1.dll
+/home/hackingstuffs/Desktop/cApp1/obj/Debug/netcoreapp3.1/cApp1.pdb
+/home/hackingstuffs/Desktop/cApp1/obj/Debug/netcoreapp3.1/cApp1.genruntimeconfig.cache

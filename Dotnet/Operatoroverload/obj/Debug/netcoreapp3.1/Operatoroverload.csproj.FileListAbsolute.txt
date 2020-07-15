@@ -1,0 +1,16 @@
+/home/hackingstuffs/Desktop/Dotnet/Operatoroverload/obj/Debug/netcoreapp3.1/Operatoroverload.csprojAssemblyReference.cache
+/home/hackingstuffs/Desktop/Dotnet/Operatoroverload/obj/Debug/netcoreapp3.1/Operatoroverload.AssemblyInfoInputs.cache
+/home/hackingstuffs/Desktop/Dotnet/Operatoroverload/obj/Debug/netcoreapp3.1/Operatoroverload.AssemblyInfo.cs
+/home/hackingstuffs/Desktop/Dotnet/Operatoroverload/obj/Debug/netcoreapp3.1/Operatoroverload.csproj.CoreCompileInputs.cache
+/home/hackingstuffs/Desktop/Dotnet/Operatoroverload/bin/Debug/netcoreapp3.1/Operatoroverload
+/home/hackingstuffs/Desktop/Dotnet/Operatoroverload/bin/Debug/netcoreapp3.1/Operatoroverload.deps.json
+/home/hackingstuffs/Desktop/Dotnet/Operatoroverload/bin/Debug/netcoreapp3.1/Operatoroverload.runtimeconfig.json
+/home/hackingstuffs/Desktop/Dotnet/Operatoroverload/bin/Debug/netcoreapp3.1/Operatoroverload.runtimeconfig.dev.json
+/home/hackingstuffs/Desktop/Dotnet/Operatoroverload/bin/Debug/netcoreapp3.1/Operatoroverload.dll
+/home/hackingstuffs/Desktop/Dotnet/Operatoroverload/bin/Debug/netcoreapp3.1/Operatoroverload.pdb
+/home/hackingstuffs/Desktop/Dotnet/Operatoroverload/bin/Debug/netcoreapp3.1/cl2.dll
+/home/hackingstuffs/Desktop/Dotnet/Operatoroverload/bin/Debug/netcoreapp3.1/cl2.pdb
+/home/hackingstuffs/Desktop/Dotnet/Operatoroverload/obj/Debug/netcoreapp3.1/Operatoroverload.csproj.CopyComplete
+/home/hackingstuffs/Desktop/Dotnet/Operatoroverload/obj/Debug/netcoreapp3.1/Operatoroverload.dll
+/home/hackingstuffs/Desktop/Dotnet/Operatoroverload/obj/Debug/netcoreapp3.1/Operatoroverload.pdb
+/home/hackingstuffs/Desktop/Dotnet/Operatoroverload/obj/Debug/netcoreapp3.1/Operatoroverload.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gp2uQizrg0/DkqixJQcKx0HgdGyLz4haR7Xg5ZAlRbdm1jjl6rJEPd2qhEM9kXC8Kg45MeOYIwibuGDIgNH14w==",
+  "success": true,
+  "projectFilePath": "/home/hackingstuffs/Desktop/cl1/cl1.csproj",
+  "expectedPackageFiles": [
+    "/home/hackingstuffs/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/hackingstuffs/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
