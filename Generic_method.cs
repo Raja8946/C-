@@ -34,6 +34,8 @@ namespace Default
             Example.showarray(name);
             Example.showarray(nam);
          Console.WriteLine(Example.check("Raj","JAR"));
+            Console.WriteLine(Example.check(10,10);
+          Console.WriteLine(Example.check('a','a');                    
         }
     }
 }
