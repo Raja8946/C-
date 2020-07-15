@@ -13,6 +13,14 @@ namespace Default
             {
                 Console.WriteLine(arr[i]);
             }
+        }
+        public static bool check<A>(A a,A b)
+        {
+            bool c= a.Equals(b);
+            return c;
+
+
+
         } 
     }
     public class Generic_method
@@ -25,6 +33,7 @@ namespace Default
             Example.showarray(number);
             Example.showarray(name);
             Example.showarray(nam);
+         Console.WriteLine(Example.check("Raj","JAR"));
         }
     }
 }
