@@ -1,5 +1,5 @@
-# C-
+# C-   A OOPS based Platefom
 
 
 
-This is a completely begining of the langyage C#.
+This is a completely beginning of the language C#.
