@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/hackingstuffs/Desktop/cApp1/cApp1.csproj",
+      "projectUniqueName": "/home/hackingstuffs/Desktop/C#/cApp1/cApp1.csproj",
       "projectName": "cApp1",
-      "projectPath": "/home/hackingstuffs/Desktop/cApp1/cApp1.csproj",
+      "projectPath": "/home/hackingstuffs/Desktop/C#/cApp1/cApp1.csproj",
       "packagesPath": "/home/hackingstuffs/.nuget/packages/",
-      "outputPath": "/home/hackingstuffs/Desktop/cApp1/obj/",
+      "outputPath": "/home/hackingstuffs/Desktop/C#/cApp1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/hackingstuffs/.nuget/NuGet/NuGet.Config"
@@ -50,8 +50,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/home/hackingstuffs/Desktop/cl1/cl1.csproj": {
-              "projectPath": "/home/hackingstuffs/Desktop/cl1/cl1.csproj"
+            "/home/hackingstuffs/Desktop/C#/cl1/cl1.csproj": {
+              "projectPath": "/home/hackingstuffs/Desktop/C#/cl1/cl1.csproj"
             }
           }
         }

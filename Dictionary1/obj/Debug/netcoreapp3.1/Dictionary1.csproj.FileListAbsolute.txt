@@ -1,0 +1,16 @@
+/home/hackingstuffs/Desktop/C#/Dictionary1/bin/Debug/netcoreapp3.1/Dictionary1
+/home/hackingstuffs/Desktop/C#/Dictionary1/bin/Debug/netcoreapp3.1/Dictionary1.deps.json
+/home/hackingstuffs/Desktop/C#/Dictionary1/bin/Debug/netcoreapp3.1/Dictionary1.runtimeconfig.json
+/home/hackingstuffs/Desktop/C#/Dictionary1/bin/Debug/netcoreapp3.1/Dictionary1.runtimeconfig.dev.json
+/home/hackingstuffs/Desktop/C#/Dictionary1/bin/Debug/netcoreapp3.1/Dictionary1.dll
+/home/hackingstuffs/Desktop/C#/Dictionary1/bin/Debug/netcoreapp3.1/Dictionary1.pdb
+/home/hackingstuffs/Desktop/C#/Dictionary1/obj/Debug/netcoreapp3.1/Dictionary1.csprojAssemblyReference.cache
+/home/hackingstuffs/Desktop/C#/Dictionary1/obj/Debug/netcoreapp3.1/Dictionary1.AssemblyInfoInputs.cache
+/home/hackingstuffs/Desktop/C#/Dictionary1/obj/Debug/netcoreapp3.1/Dictionary1.AssemblyInfo.cs
+/home/hackingstuffs/Desktop/C#/Dictionary1/obj/Debug/netcoreapp3.1/Dictionary1.csproj.CoreCompileInputs.cache
+/home/hackingstuffs/Desktop/C#/Dictionary1/obj/Debug/netcoreapp3.1/Dictionary1.dll
+/home/hackingstuffs/Desktop/C#/Dictionary1/obj/Debug/netcoreapp3.1/Dictionary1.pdb
+/home/hackingstuffs/Desktop/C#/Dictionary1/obj/Debug/netcoreapp3.1/Dictionary1.genruntimeconfig.cache
+/home/hackingstuffs/Desktop/C#/Dictionary1/bin/Debug/netcoreapp3.1/cl2.dll
+/home/hackingstuffs/Desktop/C#/Dictionary1/bin/Debug/netcoreapp3.1/cl2.pdb
+/home/hackingstuffs/Desktop/C#/Dictionary1/obj/Debug/netcoreapp3.1/Dictionary1.csproj.CopyComplete

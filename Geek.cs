@@ -27,7 +27,7 @@ class Geek {
 		// constructor. 
 		Geek geek1 = new Geek("GFG", 1); 
 		Console.WriteLine("GeekName = " + geek1.name + 
-						" and GeekId = " + geek1.id); 
+    						" and GeekId = " + geek1.id); 
 	} 
 } 
 } 

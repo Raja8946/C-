@@ -7,3 +7,12 @@
 /home/hackingstuffs/Desktop/cl1/obj/Debug/netstandard2.0/cl1.csproj.CoreCompileInputs.cache
 /home/hackingstuffs/Desktop/cl1/obj/Debug/netstandard2.0/cl1.dll
 /home/hackingstuffs/Desktop/cl1/obj/Debug/netstandard2.0/cl1.pdb
+/home/hackingstuffs/Desktop/C#/cl1/bin/Debug/netstandard2.0/cl1.deps.json
+/home/hackingstuffs/Desktop/C#/cl1/bin/Debug/netstandard2.0/cl1.dll
+/home/hackingstuffs/Desktop/C#/cl1/bin/Debug/netstandard2.0/cl1.pdb
+/home/hackingstuffs/Desktop/C#/cl1/obj/Debug/netstandard2.0/cl1.csprojAssemblyReference.cache
+/home/hackingstuffs/Desktop/C#/cl1/obj/Debug/netstandard2.0/cl1.AssemblyInfoInputs.cache
+/home/hackingstuffs/Desktop/C#/cl1/obj/Debug/netstandard2.0/cl1.AssemblyInfo.cs
+/home/hackingstuffs/Desktop/C#/cl1/obj/Debug/netstandard2.0/cl1.csproj.CoreCompileInputs.cache
+/home/hackingstuffs/Desktop/C#/cl1/obj/Debug/netstandard2.0/cl1.dll
+/home/hackingstuffs/Desktop/C#/cl1/obj/Debug/netstandard2.0/cl1.pdb

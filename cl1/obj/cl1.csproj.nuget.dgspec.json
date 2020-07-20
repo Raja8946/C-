@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/hackingstuffs/Desktop/cl1/cl1.csproj": {}
+    "/home/hackingstuffs/Desktop/C#/cl1/cl1.csproj": {}
   },
   "projects": {
-    "/home/hackingstuffs/Desktop/cl1/cl1.csproj": {
+    "/home/hackingstuffs/Desktop/C#/cl1/cl1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/hackingstuffs/Desktop/cl1/cl1.csproj",
+        "projectUniqueName": "/home/hackingstuffs/Desktop/C#/cl1/cl1.csproj",
         "projectName": "cl1",
-        "projectPath": "/home/hackingstuffs/Desktop/cl1/cl1.csproj",
+        "projectPath": "/home/hackingstuffs/Desktop/C#/cl1/cl1.csproj",
         "packagesPath": "/home/hackingstuffs/.nuget/packages/",
-        "outputPath": "/home/hackingstuffs/Desktop/cl1/obj/",
+        "outputPath": "/home/hackingstuffs/Desktop/C#/cl1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/hackingstuffs/.nuget/NuGet/NuGet.Config"

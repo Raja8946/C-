@@ -1,0 +1,86 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "cl2/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/cl2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/cl2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cl2/1.0.0": {
+      "type": "project",
+      "path": "../cl2/cl2.csproj",
+      "msbuildProject": "../cl2/cl2.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "cl2 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/hackingstuffs/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/hackingstuffs/Desktop/C#/Dictionary1/Dictionary1.csproj",
+      "projectName": "Dictionary1",
+      "projectPath": "/home/hackingstuffs/Desktop/C#/Dictionary1/Dictionary1.csproj",
+      "packagesPath": "/home/hackingstuffs/.nuget/packages/",
+      "outputPath": "/home/hackingstuffs/Desktop/C#/Dictionary1/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/hackingstuffs/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "/home/hackingstuffs/Desktop/C#/cl2/cl2.csproj": {
+              "projectPath": "/home/hackingstuffs/Desktop/C#/cl2/cl2.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -23,12 +23,18 @@ namespace Capp2
            List<Class1> Mylist=new List<Class1>();
            Mylist.Add(employee1);
            Mylist.Add(employee2);
-           foreach(Class1 emp in Mylist)
+        //    foreach(Class1 emp in Mylist)
+        //    {
+        //        Console.WriteLine("Employee name is:{0} and Employee age is :{1}",emp.Name,emp.age);
+        //    }
+                  //  Mylist.RemoveAll(emp => emp.age>20);
+                   Console.WriteLine(Mylist.Exists(emp => emp.Name.StartsWith("A")));
+           
+                    foreach(Class1 emp in Mylist)
            {
                Console.WriteLine("Employee name is:{0} and Employee age is :{1}",emp.Name,emp.age);
            }
-
-           
+          
           // Console.WriteLine(employee.age);
            
         }

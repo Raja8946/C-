@@ -51,13 +51,15 @@ namespace Default
         static void Main(string[] args)
         {
             Calculation obj = new Calculation(Delegates.Add);
-            
+          
+             
            // obj(20,30);
             obj+=Subtract;
           //  obj(30,20);        // Multi Cast Delegates
             obj+=Multiply;
             //obj.Invoke(10,5);
             obj-=Divide;
+            
             obj(50,10);
 
             // Show obj1 = new Show(show);  // Single cast Delegates
