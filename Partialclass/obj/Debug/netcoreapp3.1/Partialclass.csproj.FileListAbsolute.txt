@@ -1,0 +1,4 @@
+/home/hackingstuffs/Desktop/C#/Partialclass/obj/Debug/netcoreapp3.1/Partialclass.csprojAssemblyReference.cache
+/home/hackingstuffs/Desktop/C#/Partialclass/obj/Debug/netcoreapp3.1/Partialclass.AssemblyInfoInputs.cache
+/home/hackingstuffs/Desktop/C#/Partialclass/obj/Debug/netcoreapp3.1/Partialclass.AssemblyInfo.cs
+/home/hackingstuffs/Desktop/C#/Partialclass/obj/Debug/netcoreapp3.1/Partialclass.csproj.CoreCompileInputs.cache
