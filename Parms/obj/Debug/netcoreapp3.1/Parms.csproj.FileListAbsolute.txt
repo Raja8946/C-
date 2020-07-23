@@ -1,0 +1,13 @@
+/home/hackingstuffs/Desktop/C#/Parms/bin/Debug/netcoreapp3.1/Parms
+/home/hackingstuffs/Desktop/C#/Parms/bin/Debug/netcoreapp3.1/Parms.deps.json
+/home/hackingstuffs/Desktop/C#/Parms/bin/Debug/netcoreapp3.1/Parms.runtimeconfig.json
+/home/hackingstuffs/Desktop/C#/Parms/bin/Debug/netcoreapp3.1/Parms.runtimeconfig.dev.json
+/home/hackingstuffs/Desktop/C#/Parms/bin/Debug/netcoreapp3.1/Parms.dll
+/home/hackingstuffs/Desktop/C#/Parms/bin/Debug/netcoreapp3.1/Parms.pdb
+/home/hackingstuffs/Desktop/C#/Parms/obj/Debug/netcoreapp3.1/Parms.csprojAssemblyReference.cache
+/home/hackingstuffs/Desktop/C#/Parms/obj/Debug/netcoreapp3.1/Parms.AssemblyInfoInputs.cache
+/home/hackingstuffs/Desktop/C#/Parms/obj/Debug/netcoreapp3.1/Parms.AssemblyInfo.cs
+/home/hackingstuffs/Desktop/C#/Parms/obj/Debug/netcoreapp3.1/Parms.csproj.CoreCompileInputs.cache
+/home/hackingstuffs/Desktop/C#/Parms/obj/Debug/netcoreapp3.1/Parms.dll
+/home/hackingstuffs/Desktop/C#/Parms/obj/Debug/netcoreapp3.1/Parms.pdb
+/home/hackingstuffs/Desktop/C#/Parms/obj/Debug/netcoreapp3.1/Parms.genruntimeconfig.cache
